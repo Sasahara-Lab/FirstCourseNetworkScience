@@ -12,9 +12,9 @@
 
 ## 著者
 
-* [Filippo Menczer](https://about.me/fil.m)、インディアナ大学、ブルーミントン
-* [Santo Fortunato](https://sites.google.com/view/santofortunato/)、インディアナ大学、ブルーミントン
-* [Clayton A. Davis](https://www.clayadavis.net/)、インディアナ大学、ブルーミントン
+* [Filippo Menczer](https://about.me/fil.m)、インディアナ大学ブルーミントン校
+* [Santo Fortunato](https://sites.google.com/view/santofortunato/)、インディアナ大学ブルーミントン校
+* [Clayton A. Davis](https://www.clayadavis.net/)、インディアナ大学ブルーミントン校
 
 ## レベル
 
@@ -27,21 +27,21 @@
 
 ## 要約
 
-ネットワークは私たちの生活のあらゆる側面に浸透しています：友達のネットワーク、コミュニケーションのネットワーク、コンピューターのネットワーク、Web、交通など、私たちは毎日経験する例です。一方、脳や細胞内のネットワークは私たちの生存を決定します。ネットワークは、単純な関係と複雑な関係を表現し研究する一般的で強力な方法です。今日、ネットワークプロセスの基本的な理解は、マーケティングからテクノロジー、経営からデザイン、生物学から芸術と人文学までの職種で必要とされています。この教科書は、情報学、ビジネス、コンピューターサイエンス、エンジニアリング、情報科学、生物学、物理学、統計学、社会科学の学部生向けにネットワークを紹介するために設計されています。多くの領域でネットワークを調査した後、本書はソーシャルネットワークの特性と中心の重要な役割について説明します。Webを使用した指向性と重みのあるネットワークは、情報の拡散とソーシャルメディアでの情報と誤情報の拡散を事例として議論されます。最後の章では、ネットワークモデル、コミュニティ、ダイナミクスについて詳しく説明します。数学的なバックグラウンドやプログラミングの経験は不要で、初級から上級までの学部生向けの導入コース、ネットワークリテラシーやプログラムリテラシーコースに適しています。ただし、より高度な学生向けにオプションの技術セクションが含まれています。プログラムのチュートリアル、演習、データセットにより、読者はネットワークの構築と分析に関する実地活動を通じて理解を得てテストできます。
+ネットワークは、私たちの生活のあらゆる場面に存在している。交友関係、通信、ウェブ、交通網はすべて、私たちの身の回りで経験するネットワークの例である。一方、脳や細胞内のネットワークは私たちの生存を決定します。ネットワークは、単純な関係と複雑な関係を表現し研究する一般的で強力な方法です。今日、ネットワークプロセスの基本的な理解は、マーケティングからテクノロジー、経営からデザイン、生物学から芸術と人文学までの職種で必要とされています。この教科書は、情報学、ビジネス、コンピューターサイエンス、エンジニアリング、情報科学、生物学、物理学、統計学、社会科学の学部生向けにネットワークを紹介するために設計されています。多くの領域でネットワークを調査した後、本書はソーシャルネットワークの特性と中心の重要な役割について説明します。Webを使用した指向性と重みのあるネットワークは、情報の拡散とソーシャルメディアでの情報と誤情報の拡散を事例として議論されます。最後の章では、ネットワークモデル、コミュニティ、ダイナミクスについて詳しく説明します。数学的なバックグラウンドやプログラミングの経験は不要で、初級から上級までの学部生向けの導入コース、ネットワークリテラシーやプログラムリテラシーコースに適しています。ただし、より高度な学生向けにオプションの技術セクションが含まれています。プログラムのチュートリアル、演習、データセットにより、読者はネットワークの構築と分析に関する実地活動を通じて理解を得てテストできます。
 
 ## レビューと推薦
 
 > これは、すべてのバックグラウンドの学生がネットワーク科学の力を発見するために手を取る本です。読者をフィールドに入るのに必要な基本的な概念へと導きながら、必要なプログラミングの基本とツールも提供します。厳格でありながら非常にアクセス可能な、この本はネットワーク科学の新進分野に魅了されるすべての学生にとって理想的な出発点です。
 
---アレッサンドロ・ヴェスピニャーニ、ノーザン・ユニバーシティの物理学、健康、コンピュータ科学のスターンバーグ特別教授
+--アレッサンドロ・ヴェスピニャーニ、ノースイースタン大学物理学、健康科学、コンピュータ科学のスターンバーグ特別教授
 
 > ネットワークなしでは世界を理解できません。この包括的でありながらアクセス可能なテキストは、ネットワーク科学の基本を習得したいすべての人にとって必須のリソースです。学部生と大学院生向けに不可欠であり、ネットワークが台頭している多くの分野の研究者にとっても必要な入門書です。
 
---オラフ・スポーンス、インディアナ大学の心理学と脳科学の特別教授
+--オラフ・スポーンス、インディアナ大学心理学及び脳科学の特別教授
 
 > 用意に飛び乗れ！この本はネットワーク科学を教える点で先を行くものです。公式主義なしで、驚くほど明確で洞察に富んだ、著者たちは概念を活性化し、学生を魅了し、ネットワークデータの分析とシミュレーションのスキルを提供するための実体験型学習を行います。この本は学生をより賢くするだけでなく、彼らは賢く感じ、行動します。
 
---ブライアン・ウジ、ノースウェスタン大学の経営学トーマス教授
+--ブライアン・ウジ、ノースウェスタン大学経営学トーマス教授
 
 > Menczer、Fortunato、Davisによる「ネットワーク科学入門」は、ネットワーク科学の観点からネットワーク分析に関する洗練された導入です。この魅力的な分野への旅を始める素晴らしい場所を提供する、この分野で最も有名な実務家の著者によるアクセス可能なテキストです。
 
@@ -65,15 +65,15 @@
 
 ## 目次
 
-* 第0章：[はじめに](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter0.pdf)
+* 第0章：[導入](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter0.pdf)
 
-* 第1章：基本要素 ([チュートリアル](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%201%20Tutorial.ipynb))
+* 第1章：ネットワークの要素 ([チュートリアル](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%201%20Tutorial.ipynb))
 
 * 第2章：スモールワールド ([チュートリアル](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%202%20Tutorial.ipynb))
 
 * 第3章：ハブ ([チュートリアル](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%203%20Tutorial.ipynb))
 
-* 第4章：[方向性と重み](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter4.pdf) ([チュートリアル](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%204%20Tutorial%20(Twitter%20API%20v2).ipynb))
+* 第4章：[方向と重み](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter4.pdf) ([チュートリアル](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%204%20Tutorial%20(Twitter%20API%20v2).ipynb))
 
 * 第5章：ネットワークモデル ([チュートリアル](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%205%20Tutorial.ipynb))
 

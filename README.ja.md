@@ -67,21 +67,21 @@
 
 * 第0章：[導入](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter0.pdf)
 
-* 第1章：ネットワークの要素 ([チュートリアル](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%201%20Tutorial.ipynb))
+* 第1章：ネットワークの要素 ([チュートリアル](https://github.com/Sasahara-Lab/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%201%20Tutorial.ipynb))
 
-* 第2章：スモールワールド ([チュートリアル](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%202%20Tutorial.ipynb))
+* 第2章：スモールワールド ([チュートリアル](https://github.com/Sasahara-Lab/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%202%20Tutorial.ipynb))
 
-* 第3章：ハブ ([チュートリアル](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%203%20Tutorial.ipynb))
+* 第3章：ハブ ([チュートリアル](https://github.com/Sasahara-Lab/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%203%20Tutorial.ipynb))
 
-* 第4章：[方向と重み](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter4.pdf) ([チュートリアル](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%204%20Tutorial%20(Twitter%20API%20v2).ipynb))
+* 第4章：[方向と重み](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter4.pdf) ([チュートリアル](https://github.com/Sasahara-Lab/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%204%20Tutorial%20(Twitter%20API%20v2).ipynb))
 
-* 第5章：ネットワークモデル ([チュートリアル](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%205%20Tutorial.ipynb))
+* 第5章：ネットワークモデル ([チュートリアル](https://github.com/Sasahara-Lab/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%205%20Tutorial.ipynb))
 
-* 第6章：コミュニティ ([チュートリアル](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%206%20Tutorial.ipynb))
+* 第6章：コミュニティ ([チュートリアル](https://github.com/Sasahara-Lab/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%206%20Tutorial.ipynb))
 
-* 第7章：ダイナミクス ([チュートリアル](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%207%20Tutorial.ipynb))
+* 第7章：ダイナミクス ([チュートリアル](https://github.com/Sasahara-Lab/FirstCourseNetworkScience/blob/master/tutorials_ja/Chapter%207%20Tutorial.ipynb))
 
-* 付録A：[Pythonチュートリアル](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials_ja/Appendix%20-%20Python%20Tutorial.ipynb)
+* 付録A：[Pythonチュートリアル](https://github.com/Sasahara-Lab/FirstCourseNetworkScience/blob/master/tutorials_ja/Appendix%20-%20Python%20Tutorial.ipynb)
 
 * 付録B：NetLogo
 

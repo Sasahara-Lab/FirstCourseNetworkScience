@@ -63,6 +63,7 @@
 
 --スティーブン・ボルガッティ，ケンタッキー大学シェルグレン戦略経営学教授
 
+
 ## 目次
 
 * 第0章：[導入](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter0.pdf)
@@ -83,7 +84,7 @@
 
 * 付録A：[Pythonチュートリアル](https://github.com/Sasahara-Lab/FirstCourseNetworkScience/blob/master/tutorials_ja/Appendix%20-%20Python%20Tutorial.ipynb)
 
-* 付録B：NetLogo
+* 付録B：NetLogo 
 
 * 参考文献
 

@@ -114,6 +114,6 @@
 
 * [サンプルのスライド](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/tree/master/sample/slides)（**すべて**の章の講義スライドデッキは[登録教員向けの教科書ウェブサイト](https://www.cambridge.org/academic/subjects/physics/statistical-physics/first-course-network-science#resources)で見つけることができる）
 
-* [正誤表](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/issues)（本の誤りを通知するための問題を提出します）
+* [正誤表](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/issues)（本書の誤りを通知するためのイシューを提出）
 
 注：教員向けのCUP教科書ウェブサイト上のリソースにアクセスするには，教員ステータスを登録して確認する必要がある．
